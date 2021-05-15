@@ -21,4 +21,4 @@ $ pip install beautifulsoup4
 <h3> Other Useful Resources </h3>
 <a href = 'https://letslearnabout.net/tutorial/scrapy-tutorial/python-scrapy-tutorial-for-beginners-01-creating-your-first-spider/'> 
   Great Tutorials </a> where I built the program based on these tutorials <br>
-<a hreft = 'https://docs.scrapy.org/en/latest/index.html'> Scrapy Official Documentation </a>
+<a href = 'https://docs.scrapy.org/en/latest/index.html'> Scrapy Official Documentation </a>
