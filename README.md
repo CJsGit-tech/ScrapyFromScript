@@ -4,8 +4,9 @@
 2. You have python installed and know how to run python from CLI
 
 <h3>What you will get out of this REPO</h3>
-1. Learn to run Scrapy projects from CLI <br>
-2. Single Page scraping and Multi Page Crawling 
+Learn to run Scrapy from CLI (python WebScraper.py) under scenarios of <br>
+1. Single Page scraping <br>
+2. Multi-Page Crawling
 
 <h3>Prerequisites</h3>
 $ pip install pandas
