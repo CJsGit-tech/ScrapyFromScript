@@ -26,7 +26,11 @@ program = CrawlerProcess(settings={
             }
         },
         'FEED_EXPORT_ENCODING':'utf-8', # In case you are scraping a non-English Website
-        'AUTOTHROTTLR_ENABLED':True # To reduce target server's burden and avoid DoS
+        'AUTOTHROTTLR_ENABLED':True, # To reduce target server's burden and avoid DoS
+        'DOWNLOADER_MIDDLEWARES':{
+        'scrapy.spidermiddlewares.offsite.OffsiteMiddleware': True,
+
+        }
 })
 
 
